@@ -1,5 +1,5 @@
-<H3>NAME: HEMNATH R </H3>
-<H3>REGISTER NO: 212224240057 </H3>
+<H3>NAME: Rahul V </H3>
+<H3>REGISTER NO: 212223240133 </H3>
 <H3>EX. NO.5</H3>
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
 <H3>Aim:</H3>
@@ -108,6 +108,8 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 <H3>Result:</H3>
 Thus a Radial Basis Function Neural Network is implemented to classify XOR data.
+
+
 
 
 
